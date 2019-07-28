@@ -27,10 +27,10 @@ quit
 help
 ```
 ## TODO List
-[] Partitiaze save
+- [ ] Partitiaze save
 
-[] Danmaku save
+- [ ] Danmaku save
 
-[] Optimize multi-thread working 
+- [ ] Optimize multi-thread working 
 ## Aknowlegements & References
 [flv-streamer-2-file](https://github.com/coreyauger/flv-streamer-2-file)
